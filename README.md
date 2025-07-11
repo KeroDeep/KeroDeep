@@ -243,7 +243,7 @@
 
 <h3>📁 𝕄𝕪 𝕣𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕚𝕖𝕤:</h3>
 
-<a href="https://github.com/KeroDeep/Self-development"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KeroDeep&repo=Self-development&theme=tokyonight&hide_border=true" alt="Self-development" width="49.7%" height="auto"></a>
+<a href="https://github.com/KeroDeep/Education"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KeroDeep&repo=Education&theme=tokyonight&hide_border=true" alt="Education" width="49.7%" height="auto"></a>
 <a href="https://github.com/KeroDeep/NSU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KeroDeep&repo=NSU&theme=tokyonight&hide_border=true" alt="NSU" width="49.7%" height="auto"></a>
 
 <h3>🖊️ 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:</h3>
