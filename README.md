@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/github/stars/KeroDeep?style=flat&logo=github" alt="Stars"/> &nbsp;
     <img src="https://img.shields.io/badge/status-up-brightgreen" alt="Status"/> &nbsp;
     <img src="https://img.shields.io/github/followers/KeroDeep?style=flat&logo=github" alt="Followers"/> &nbsp;
-    <img src="https://img.shields.io/github/last-commit/KeroDeep/BogdanKlimov11" alt="Last commit"/> &nbsp;
+    <img src="https://img.shields.io/github/last-commit/KeroDeep/KeroDeep" alt="Last commit"/> &nbsp;
     <img src="https://komarev.com/ghpvc/?username=KeroDeep" alt="Counter"> &nbsp;
     <img src="https://img.shields.io/github/forks/madushadhanushka/simple-sqlite?style=flat&color=brightgreen" alt="Forks"/>
 </div>
@@ -235,7 +235,7 @@
 
 <h4>📊 𝕄𝕪 𝕃𝕖𝕖𝕥ℂ𝕠𝕕𝕖 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
-<a href="https://github.com/KnlnKS/leetcode-stats"><img src="https://leetcard.jacoblin.cool/KeroDeep?ext=heatmap&theme=dark&border=0&radius=10" alt="LeetCode stats" width="49.7%" height="auto"></a>
+<a href="https://github.com/KnlnKS/leetcode-stats"><img src="https://leetcard.jacoblin.cool/BogdanKlimov11?ext=heatmap&theme=dark&border=0&radius=10" alt="LeetCode stats" width="49.7%" height="auto"></a>
 
 <h4>🚀 𝕄𝕪 𝕊𝕥𝕒𝕔𝕜𝕆𝕧𝕖𝕣𝕗𝕝𝕠𝕨 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
