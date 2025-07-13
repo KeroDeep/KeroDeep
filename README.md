@@ -191,19 +191,19 @@
 
 <h3>🔥 𝕄𝕪 𝕊𝕥𝕒𝕥𝕤:</h3>
 
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeroDeep&theme=tokyonight" alt="Profile card" width="100%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeroDeep&theme=tokyonight" alt="Statistics of languages ​​in commits" width="49.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KeroDeep&theme=tokyonight" alt="Statistics of languages ​​in repositories" width="49.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KeroDeep&theme=tokyonight" alt="Profile statistics" width="49.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KeroDeep&theme=tokyonight" alt="Data on commits per day" width="49.7%" height="auto"></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeroDeep&langs_count=20&theme=tokyonight&hide_progress=true&hide_border=true" alt="Top Languages" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeroDeep&theme=dark" alt="Profile card" width="100%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeroDeep&theme=dark" alt="Statistics of languages ​​in commits" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KeroDeep&theme=dark" alt="Statistics of languages ​​in repositories" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KeroDeep&theme=dark" alt="Profile statistics" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KeroDeep&theme=dark" alt="Data on commits per day" width="49.7%" height="auto"></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeroDeep&langs_count=20&theme=dark&hide_progress=true&hide_border=true" alt="Top Languages" width="49.7%" height="auto"></a>
 
 <h3>🌎 𝕄𝕪 𝕝𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤:</h3>
 
 <h4>🦉 𝕄𝕪 𝔻𝕦𝕠𝕝𝕚𝕟𝕘𝕠 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
 <a href="https://www.duolingo.com/profile/BogdanKlimov11"><img src="https://github.com/KeroDeep/KeroDeep/assets/136115919/ca8cfe4a-11df-4bd1-bde5-cc16c72c3c59" alt="Duolingo link" title="Duolingo link" width="45px" height="45px"></a> <br>
-<img src="https://duolingo-stats-card.vercel.app/api?username=BogdanKlimov11&sort=xp&theme=tokyonight" alt="Duolingo Stats" width="49.7%" height="auto">
+<img src="https://duolingo-stats-card.vercel.app/api?username=BogdanKlimov11&sort=xp&theme=dark" alt="Duolingo Stats" width="49.7%" height="auto">
 
 
 <h4>🎯 𝕀 𝕒𝕞 𝕒𝕝𝕣𝕖𝕒𝕕𝕪 𝕤𝕥𝕦𝕕𝕪𝕚𝕟𝕘 𝕠𝕣 𝕙𝕒𝕧𝕖 𝕤𝕥𝕦𝕕𝕚𝕖𝕕:</h4>
@@ -243,8 +243,8 @@
 
 <h3>📁 𝕄𝕪 𝕣𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕚𝕖𝕤:</h3>
 
-<a href="https://github.com/KeroDeep/Education"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KeroDeep&repo=Education&theme=tokyonight&hide_border=true" alt="Education" width="49.7%" height="auto"></a>
-<a href="https://github.com/KeroDeep/NSU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KeroDeep&repo=NSU&theme=tokyonight&hide_border=true" alt="NSU" width="49.7%" height="auto"></a>
+<a href="https://github.com/KeroDeep/Education"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KeroDeep&repo=Education&theme=dark&hide_border=true" alt="Education" width="49.7%" height="auto"></a>
+<a href="https://github.com/KeroDeep/NSU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KeroDeep&repo=NSU&theme=dark&hide_border=true" alt="NSU" width="49.7%" height="auto"></a>
 
 <h3>🖊️ 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:</h3>
 
@@ -258,7 +258,7 @@
 
 <h4>📅 ℚ𝕦𝕠𝕥𝕖 𝕠𝕗 𝕥𝕙𝕖 𝔻𝕒𝕪:</h4>
 
-<a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" width="49.7%" height="auto"></a>
+<a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" width="49.7%" height="auto"></a>
 
 <h3>🛰️ ℙ𝕝𝕒𝕥𝕗𝕠𝕣𝕞𝕤 𝕠𝕟 𝕨𝕙𝕚𝕔𝕙 𝕪𝕠𝕦 𝕔𝕒𝕟 𝕔𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖:</h3>
 
