@@ -37,8 +37,13 @@
 <a href="https://habr.com/ru/users/IT_Killer/"><img src="https://github.com/KeroDeep/KeroDeep/assets/136115919/8baf3c6e-63d9-4a5b-80d4-2ab48b794fbf" alt="Habr" title="Habr" width="45px" height="45px"></a> &nbsp;
 <a href="https://ru.linkedin.com/"><img src="https://github.com/KeroDeep/KeroDeep/assets/136115919/e70e456e-e812-4d66-ac8c-1cfddd105d5e" alt="Linkedin" title="Linkedin" width="45px" height="45px"></a>
 
+<!-- My GitLab profile -->
+<h3>🦊 𝕄𝕪 𝔾𝕚𝕥𝕃𝕒𝕓 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h3>
+
+<a href="https://gitlab.com/KeroDeep"><img src="https://github.com/user-attachments/assets/e11fc11f-a649-4153-bf37-f70adb0f2e85" alt="GitLab profile" title="GitLab profile" width="45px" height="45px"></a>
+
 <!-- My achievements -->
-<h3>🏆 𝔾𝕚𝕥ℍ𝕦𝕓 ℙ𝕣𝕠𝕗𝕚𝕝𝕖 𝕋𝕣𝕠𝕡𝕙𝕪:</h3>
+<h3>🏆 𝔾𝕚𝕥ℍ𝕦𝕓 𝕡𝕣𝕠𝕗𝕚𝕝𝕖 𝕥𝕣𝕠𝕡𝕙𝕪:</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KeroDeep&theme=tokyonight&column=-1&no-frame=true" alt="Achievements">
