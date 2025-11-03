@@ -242,6 +242,10 @@
 
 <a href="https://github.com/KnlnKS/leetcode-stats"><img src="https://leetcard.jacoblin.cool/BogdanKlimov11?ext=heatmap&theme=dark&border=0&radius=10" alt="LeetCode stats" width="49.7%" height="auto"></a>
 
+<h4>🕙 𝕄𝕪 𝕊𝕥𝕖𝕡𝕚𝕜 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
+
+<a href="https://stepik.org/users/658101462/profile"><img src="https://github.com/user-attachments/assets/0180ba5f-4402-45e2-91c3-194d9552b44d" alt="Stepik link" title="Stepik link" width="45px" height="45px"></a>
+
 <h4>🚀 𝕄𝕪 𝕊𝕥𝕒𝕔𝕜𝕆𝕧𝕖𝕣𝕗𝕝𝕠𝕨 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
 <a href="https://stackoverflow.com/users/23562548/omid-nikrah"><img src="https://github-readme-stackoverflow.vercel.app/?userID=23562548&theme=dark" alt="StackOverflow stats" width="49.7%" height="auto"></a>
