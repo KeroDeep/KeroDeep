@@ -42,6 +42,16 @@
 
 <a href="https://gitlab.com/KeroDeep"><img src="https://github.com/user-attachments/assets/e11fc11f-a649-4153-bf37-f70adb0f2e85" alt="GitLab profile" title="GitLab profile" width="45px" height="45px"></a>
 
+<!-- My ODS profile -->
+<h3>🧠 𝕄𝕪 𝕆𝔻𝕊 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h3>
+
+<a href="https://ods.ai/users/a3c65698274b5"><img src="https://github.com/user-attachments/assets/2790d448-8753-48da-9d07-966fca29d766" alt="ODS profile" title="ODS profile" width="45px" height="45px"></a>
+
+<!-- My Kaggle profile -->
+<h3>🎖️ 𝕄𝕪 𝕂𝕒𝕘𝕘𝕝𝕖 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h3>
+
+<a href="https://www.kaggle.com/bogdanklimov"><img src="https://github.com/user-attachments/assets/62a66b34-95c0-412e-bfb0-e19696a0a12a" alt="Kaggle profile" title="Kaggle profile" width="45px" height="45px"></a>
+
 <!-- My achievements -->
 <h3>🏆 𝔾𝕚𝕥ℍ𝕦𝕓 𝕡𝕣𝕠𝕗𝕚𝕝𝕖 𝕥𝕣𝕠𝕡𝕙𝕪:</h3>
 
